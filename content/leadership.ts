@@ -3,17 +3,17 @@ import type { LeadershipRole } from '@/types'
 export const LEADERSHIP_ROLES: LeadershipRole[] = [
   {
     _id: '1', title: 'Chairperson', organisation: 'IETE Students’ Forum, SVNIT', period: 'Aug 2022 – Aug 2023',
-    description: 'Served as Chairperson of the IETE Students’ Forum at SVNIT.'
+    description: 'Served as Chairperson of the IETE Students’ Forum at SVNIT.',
     impact: ['Previously served as Executive, Finding & Development (Aug 2021 – Aug 2022).'], icon: 'users',
   },
   {
     _id: '2', title: 'Vice President', organisation: 'Rotaract Club', period: 'During undergraduate studies',
-    description: 'Held the Vice President role at the Rotaract Club.'
+    description: 'Held the Vice President role at the Rotaract Club.',
     impact: ['Leadership role listed in the supplied resume.'], icon: 'star',
   },
   {
     _id: '3', title: 'Head Girl', organisation: 'Mount Litera Zee School', period: 'School leadership',
-    description: 'Served as Head Girl at Mount Litera Zee School.'
+    description: 'Served as Head Girl at Mount Litera Zee School.',
     impact: ['Leadership role listed in the supplied resume.'], icon: 'trophy',
   },
   {
